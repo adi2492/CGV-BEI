@@ -28,4 +28,3 @@ if __name__ == "__main__":
     draw_line(0, -10, 0, 10)   # Vertical line
 
     plt.show()
-
