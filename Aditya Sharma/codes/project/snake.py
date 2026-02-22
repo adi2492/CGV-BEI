@@ -13,7 +13,7 @@ screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption("Snake Game 🐍")
 
 clock = pygame.time.Clock()
-FPS = 7
+FPS = 10
 
 current_dir = os.path.dirname(__file__)
 
